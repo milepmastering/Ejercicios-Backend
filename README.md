@@ -10,7 +10,7 @@ creamor un Repositorio en "github" con el nombre de "Ejercicios Backend" junto a
     C#,
     Rust,
     
-/ Ejercicio 2
+/ Ejercicio 2;
     C++,
     Python,
     C#,
